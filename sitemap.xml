@@ -2,17 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://achstu.github.io/posts/first/</loc>
-    <lastmod>2024-03-21T22:52:53+01:00</lastmod>
+    <loc>https://achstu.github.io/langs/assemblylanguage/</loc>
   </url><url>
-    <loc>https://achstu.github.io/posts/</loc>
-    <lastmod>2024-03-21T22:52:53+01:00</lastmod>
+    <loc>https://achstu.github.io/langs/c</loc>
   </url><url>
-    <loc>https://achstu.github.io/</loc>
-    <lastmod>2024-03-21T22:52:53+01:00</lastmod>
+    <loc>https://achstu.github.io/langs/c&#43;&#43;/</loc>
+  </url><url>
+    <loc>https://achstu.github.io/langs/c/</loc>
+  </url><url>
+    <loc>https://achstu.github.io/langs/cobol/</loc>
+  </url><url>
+    <loc>https://achstu.github.io/langs/delphiobjectpascal/</loc>
+  </url><url>
+    <loc>https://achstu.github.io/langs/fortran/</loc>
+  </url><url>
+    <loc>https://achstu.github.io/langs/go/</loc>
+  </url><url>
+    <loc>https://achstu.github.io/langs/java/</loc>
+  </url><url>
+    <loc>https://achstu.github.io/langs/javascript/</loc>
+  </url><url>
+    <loc>https://achstu.github.io/langs/kotlin/</loc>
+  </url><url>
+    <loc>https://achstu.github.io/langs/matlab/</loc>
+  </url><url>
+    <loc>https://achstu.github.io/langs/php/</loc>
+  </url><url>
+    <loc>https://achstu.github.io/langs/python/</loc>
+  </url><url>
+    <loc>https://achstu.github.io/langs/ruby/</loc>
+  </url><url>
+    <loc>https://achstu.github.io/langs/rust/</loc>
+  </url><url>
+    <loc>https://achstu.github.io/langs/scratch/</loc>
+  </url><url>
+    <loc>https://achstu.github.io/langs/sql/</loc>
+  </url><url>
+    <loc>https://achstu.github.io/langs/swift/</loc>
+  </url><url>
+    <loc>https://achstu.github.io/langs/visualbasic/</loc>
   </url><url>
     <loc>https://achstu.github.io/categories/</loc>
   </url><url>
+    <loc>https://achstu.github.io/langs/</loc>
+  </url><url>
     <loc>https://achstu.github.io/tags/</loc>
+  </url><url>
+    <loc>https://achstu.github.io/</loc>
   </url>
 </urlset>
